@@ -41,6 +41,12 @@
             "api": "./脚本/猎手.py"
         },
         {
+            "key": "wzxxcz_debace9449e1",
+            "name": "洛雪TV",
+            "type": 3,
+            "api": "./脚本/洛雪TV.py"
+        },
+        {
             "key": "wzxxcz_1160fb4e6b2f",
             "name": "不卡影视",
             "type": 3,
@@ -59,6 +65,12 @@
             "api": "./脚本/午夜剧场_分组版.py"
         },
         {
+            "key": "wzxxcz_8580dbe77199",
+            "name": "落雪",
+            "type": 3,
+            "api": "./脚本/落雪.py"
+        },
+        {
             "key": "wzxxcz_c4154ec010de",
             "name": "果果短剧",
             "type": 3,
@@ -71,52 +83,16 @@
             "api": "./脚本/吉利猫.py"
         },
         {
-            "key": "wzxxcz_f80b057d8244",
-            "name": "DJ呦呦",
+            "key": "wzxxcz_b3ca09b39432",
+            "name": "千千影视",
             "type": 3,
-            "api": "./脚本/DJ呦呦.py"
+            "api": "./脚本/千千影视.py"
         },
         {
-            "key": "wzxxcz_f897755e5f3c",
-            "name": "music_dl",
+            "key": "wzxxcz_c73ff6adb255",
+            "name": "小橙子音乐",
             "type": 3,
-            "api": "./脚本/music_dl.py"
-        },
-        {
-            "key": "wzxxcz_e8d279df2881",
-            "name": "世界听书",
-            "type": 3,
-            "api": "./脚本/世界听书.py"
-        },
-        {
-            "key": "wzxxcz_d882a09af99b",
-            "name": "千千音乐",
-            "type": 3,
-            "api": "./脚本/千千音乐.py"
-        },
-        {
-            "key": "wzxxcz_338201675967",
-            "name": "汽水音乐",
-            "type": 3,
-            "api": "./脚本/汽水音乐.py"
-        },
-        {
-            "key": "wzxxcz_7af6ff43efff",
-            "name": "爱听音乐",
-            "type": 3,
-            "api": "./脚本/爱听音乐.py"
-        },
-        {
-            "key": "wzxxcz_28479a5974ed",
-            "name": "酷我音乐",
-            "type": 3,
-            "api": "./脚本/酷我音乐.py"
-        },
-        {
-            "key": "wzxxcz_c9b6395c3f92",
-            "name": "音乐聚合",
-            "type": 3,
-            "api": "./脚本/音乐聚合.py"
+            "api": "./脚本/小橙子音乐.py"
         }
     ],
     "lives": [

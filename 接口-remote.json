@@ -41,6 +41,12 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E7%8C%8E%E6%89%8B.py"
         },
         {
+            "key": "wzxxcz_debace9449e1",
+            "name": "洛雪TV",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E6%B4%9B%E9%9B%AATV.py"
+        },
+        {
             "key": "wzxxcz_1160fb4e6b2f",
             "name": "不卡影视",
             "type": 3,
@@ -59,6 +65,12 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq1234567890/tvbox1/main/py/%E5%8D%88%E5%A4%9C%E5%89%A7%E5%9C%BA_%E5%88%86%E7%BB%84%E7%89%88.py"
         },
         {
+            "key": "wzxxcz_8580dbe77199",
+            "name": "落雪",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/%E8%90%BD%E9%9B%AA.py"
+        },
+        {
             "key": "wzxxcz_c4154ec010de",
             "name": "果果短剧",
             "type": 3,
@@ -71,52 +83,16 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq1234567890/tvbox1/main/py/%E5%90%89%E5%88%A9%E7%8C%AB.py"
         },
         {
-            "key": "wzxxcz_f80b057d8244",
-            "name": "DJ呦呦",
+            "key": "wzxxcz_b3ca09b39432",
+            "name": "千千影视",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/DJ%E5%91%A6%E5%91%A6.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E5%8D%83%E5%8D%83%E5%BD%B1%E8%A7%86.py"
         },
         {
-            "key": "wzxxcz_f897755e5f3c",
-            "name": "music_dl",
+            "key": "wzxxcz_c73ff6adb255",
+            "name": "小橙子音乐",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq1234567890/tvbox1/main/py/music_dl.py"
-        },
-        {
-            "key": "wzxxcz_e8d279df2881",
-            "name": "世界听书",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E4%B8%96%E7%95%8C%E5%90%AC%E4%B9%A6.py"
-        },
-        {
-            "key": "wzxxcz_d882a09af99b",
-            "name": "千千音乐",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90.py"
-        },
-        {
-            "key": "wzxxcz_338201675967",
-            "name": "汽水音乐",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq1234567890/tvbox1/main/py/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90.py"
-        },
-        {
-            "key": "wzxxcz_7af6ff43efff",
-            "name": "爱听音乐",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"
-        },
-        {
-            "key": "wzxxcz_28479a5974ed",
-            "name": "酷我音乐",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.py"
-        },
-        {
-            "key": "wzxxcz_c9b6395c3f92",
-            "name": "音乐聚合",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq1234567890/tvbox1/main/py/%E9%9F%B3%E4%B9%90%E8%81%9A%E5%90%88.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E5%B0%8F%E6%A9%99%E5%AD%90%E9%9F%B3%E4%B9%90.py"
         }
     ],
     "lives": [
