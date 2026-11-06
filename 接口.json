@@ -17,34 +17,10 @@
             }
         },
         {
-            "key": "wzxxcz_02e8cc2269f9",
-            "name": "女优色库",
+            "key": "wzxxcz_b3ca09b39432",
+            "name": "千千影视",
             "type": 3,
-            "api": "./脚本/女优色库.py"
-        },
-        {
-            "key": "wzxxcz_b5503e1a86e1",
-            "name": "ZIP0影视",
-            "type": 3,
-            "api": "./脚本/ZIP0影视.py"
-        },
-        {
-            "key": "wzxxcz_12bb37d126ba",
-            "name": "飞快TV",
-            "type": 3,
-            "api": "./脚本/飞快TV.py"
-        },
-        {
-            "key": "wzxxcz_2f7177104166",
-            "name": "猎手",
-            "type": 3,
-            "api": "./脚本/猎手.py"
-        },
-        {
-            "key": "wzxxcz_debace9449e1",
-            "name": "洛雪TV",
-            "type": 3,
-            "api": "./脚本/洛雪TV.py"
+            "api": "./脚本/千千影视.py"
         },
         {
             "key": "wzxxcz_1160fb4e6b2f",
@@ -53,28 +29,46 @@
             "api": "./脚本/不卡影视.py"
         },
         {
-            "key": "wzxxcz_cce08dec4dfd",
-            "name": "午夜剧场_ok影视全量版",
+            "key": "wzxxcz_b5503e1a86e1",
+            "name": "ZIP0影视",
             "type": 3,
-            "api": "./脚本/午夜剧场_ok影视全量版.py"
+            "api": "./脚本/ZIP0影视.py"
         },
         {
-            "key": "wzxxcz_0fb6c9f79ee6",
-            "name": "午夜剧场_分组版",
+            "key": "wzxxcz_fc0568b2bb6b",
+            "name": "AI搜剧",
             "type": 3,
-            "api": "./脚本/午夜剧场_分组版.py"
+            "api": "./脚本/AI搜剧.py"
         },
         {
-            "key": "wzxxcz_8580dbe77199",
-            "name": "落雪",
+            "key": "wzxxcz_f78157db590d",
+            "name": "独播库",
             "type": 3,
-            "api": "./脚本/落雪.py"
+            "api": "./脚本/独播库.py"
         },
         {
-            "key": "wzxxcz_c4154ec010de",
-            "name": "果果短剧",
+            "key": "wzxxcz_02dd3b4379b1",
+            "name": "jipinshaonv",
             "type": 3,
-            "api": "./脚本/果果短剧.py"
+            "api": "./脚本/jipinshaonv.py"
+        },
+        {
+            "key": "wzxxcz_18e96fa6d6c0",
+            "name": "baopianku",
+            "type": 3,
+            "api": "./脚本/baopianku.py"
+        },
+        {
+            "key": "wzxxcz_c0d07c22ff93",
+            "name": "shoujizhushou",
+            "type": 3,
+            "api": "./脚本/shoujizhushou.py"
+        },
+        {
+            "key": "wzxxcz_3c253d0aa850",
+            "name": "777wuyeyingyuan",
+            "type": 3,
+            "api": "./脚本/777wuyeyingyuan.py"
         },
         {
             "key": "wzxxcz_ef94b2f5df7c",
@@ -83,16 +77,10 @@
             "api": "./脚本/吉利猫.py"
         },
         {
-            "key": "wzxxcz_b3ca09b39432",
-            "name": "千千影视",
+            "key": "wzxxcz_582d36ea0caf",
+            "name": "luanlunyidianyuan",
             "type": 3,
-            "api": "./脚本/千千影视.py"
-        },
-        {
-            "key": "wzxxcz_c73ff6adb255",
-            "name": "小橙子音乐",
-            "type": 3,
-            "api": "./脚本/小橙子音乐.py"
+            "api": "./脚本/luanlunyidianyuan.py"
         }
     ],
     "lives": [
