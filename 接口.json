@@ -29,28 +29,22 @@
             "api": "./脚本/女优色库.py"
         },
         {
-            "key": "wzxxcz_12bb37d126ba",
-            "name": "飞快TV",
-            "type": 3,
-            "api": "./脚本/飞快TV.py"
-        },
-        {
             "key": "wzxxcz_b5503e1a86e1",
             "name": "ZIP0影视",
             "type": 3,
             "api": "./脚本/ZIP0影视.py"
         },
         {
+            "key": "wzxxcz_12bb37d126ba",
+            "name": "飞快TV",
+            "type": 3,
+            "api": "./脚本/飞快TV.py"
+        },
+        {
             "key": "wzxxcz_2f7177104166",
             "name": "猎手",
             "type": 3,
             "api": "./脚本/猎手.py"
-        },
-        {
-            "key": "wzxxcz_debace9449e1",
-            "name": "洛雪TV",
-            "type": 3,
-            "api": "./脚本/洛雪TV.py"
         },
         {
             "key": "wzxxcz_1160fb4e6b2f",
@@ -71,22 +65,46 @@
             "api": "./脚本/午夜剧场_ok影视全量版.py"
         },
         {
-            "key": "wzxxcz_8580dbe77199",
-            "name": "落雪",
-            "type": 3,
-            "api": "./脚本/落雪.py"
-        },
-        {
             "key": "wzxxcz_c4154ec010de",
             "name": "果果短剧",
             "type": 3,
             "api": "./脚本/果果短剧.py"
         },
         {
+            "key": "wzxxcz_debace9449e1",
+            "name": "洛雪TV",
+            "type": 3,
+            "api": "./脚本/洛雪TV.py"
+        },
+        {
+            "key": "wzxxcz_2b79c02cc400",
+            "name": "咸鱼影视",
+            "type": 3,
+            "api": "./脚本/咸鱼影视.py"
+        },
+        {
+            "key": "wzxxcz_8580dbe77199",
+            "name": "落雪",
+            "type": 3,
+            "api": "./脚本/落雪.py"
+        },
+        {
+            "key": "wzxxcz_fc0568b2bb6b",
+            "name": "AI搜剧",
+            "type": 3,
+            "api": "./脚本/AI搜剧.py"
+        },
+        {
             "key": "wzxxcz_ef94b2f5df7c",
             "name": "吉利猫",
             "type": 3,
             "api": "./脚本/吉利猫.py"
+        },
+        {
+            "key": "wzxxcz_b3ca09b39432",
+            "name": "千千影视",
+            "type": 3,
+            "api": "./脚本/千千影视.py"
         }
     ],
     "lives": [

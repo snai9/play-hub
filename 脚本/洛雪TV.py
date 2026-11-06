@@ -1862,7 +1862,7 @@ class Spider(Spider):
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["ikun", "4k60帧", "360资源", "魔都"]
+_TVBOX_LINE_ORDER = ["ikun", "360资源", "4k60帧", "魔都"]
 
 def _tvbox_filter_lines(result, drop):
     if not isinstance(result, dict):

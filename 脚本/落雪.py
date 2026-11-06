@@ -2366,7 +2366,7 @@ def destroy():
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["360资源", "ikun", "🔥 直链"]
+_TVBOX_LINE_ORDER = ["🔥 直链", "360资源", "自营🔥 直链", "自营🔥 直链-2"]
 
 def _tvbox_filter_lines(result, drop):
     if not isinstance(result, dict):
