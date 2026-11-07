@@ -8,18 +8,6 @@
             "api": "./脚本/豆瓣.py"
         },
         {
-            "key": "wzxxcz_ffd8cc926e2c",
-            "name": "人人视频",
-            "type": 3,
-            "api": "./脚本/人人视频_保留.py"
-        },
-        {
-            "key": "wzxxcz_88aa6c4b0b48",
-            "name": "8X8X",
-            "type": 3,
-            "api": "./脚本/8X8X_保留.py"
-        },
-        {
             "key": "2",
             "name": "哔哩",
             "type": 3,
@@ -29,28 +17,10 @@
             }
         },
         {
-            "key": "wzxxcz_02dd3b4379b1",
-            "name": "jipinshaonv",
-            "type": 3,
-            "api": "./脚本/jipinshaonv.py"
-        },
-        {
             "key": "wzxxcz_12bb37d126ba",
             "name": "飞快TV",
             "type": 3,
             "api": "./脚本/飞快TV.py"
-        },
-        {
-            "key": "wzxxcz_0fb6c9f79ee6",
-            "name": "午夜剧场_分组版",
-            "type": 3,
-            "api": "./脚本/午夜剧场_分组版.py"
-        },
-        {
-            "key": "wzxxcz_cce08dec4dfd",
-            "name": "午夜剧场_ok影视全量版",
-            "type": 3,
-            "api": "./脚本/午夜剧场_ok影视全量版.py"
         },
         {
             "key": "wzxxcz_b5503e1a86e1",
@@ -59,10 +29,10 @@
             "api": "./脚本/ZIP0影视.py"
         },
         {
-            "key": "wzxxcz_fa9d205ce2a8",
-            "name": "caijijuhechengren",
+            "key": "wzxxcz_b3ca09b39432",
+            "name": "千千影视",
             "type": 3,
-            "api": "./脚本/caijijuhechengren.py"
+            "api": "./脚本/千千影视.py"
         },
         {
             "key": "wzxxcz_fc0568b2bb6b",
@@ -71,28 +41,10 @@
             "api": "./脚本/AI搜剧.py"
         },
         {
-            "key": "wzxxcz_b3ca09b39432",
-            "name": "千千影视",
+            "key": "wzxxcz_26f8ed6c94ab",
+            "name": "yese",
             "type": 3,
-            "api": "./脚本/千千影视.py"
-        },
-        {
-            "key": "wzxxcz_0b7adabc609f",
-            "name": "nanrenbense",
-            "type": 3,
-            "api": "./脚本/nanrenbense.py"
-        },
-        {
-            "key": "wzxxcz_debace9449e1",
-            "name": "洛雪TV",
-            "type": 3,
-            "api": "./脚本/洛雪TV.py"
-        },
-        {
-            "key": "wzxxcz_d9008487a095",
-            "name": "tangxinciyuan",
-            "type": 3,
-            "api": "./脚本/tangxinciyuan.py"
+            "api": "./脚本/yese.py"
         },
         {
             "key": "wzxxcz_2b79c02cc400",
@@ -101,28 +53,10 @@
             "api": "./脚本/咸鱼影视.py"
         },
         {
-            "key": "wzxxcz_c0d07c22ff93",
-            "name": "shoujizhushou",
-            "type": 3,
-            "api": "./脚本/shoujizhushou.py"
-        },
-        {
-            "key": "wzxxcz_02e8cc2269f9",
-            "name": "女优色库",
-            "type": 3,
-            "api": "./脚本/女优色库.py"
-        },
-        {
             "key": "wzxxcz_ef94b2f5df7c",
             "name": "吉利猫",
             "type": 3,
             "api": "./脚本/吉利猫.py"
-        },
-        {
-            "key": "wzxxcz_18e96fa6d6c0",
-            "name": "baopianku",
-            "type": 3,
-            "api": "./脚本/baopianku.py"
         },
         {
             "key": "wzxxcz_58c6a545d67f",
@@ -135,6 +69,60 @@
             "name": "xiangjiaoshipin",
             "type": 3,
             "api": "./脚本/xiangjiaoshipin.py"
+        },
+        {
+            "key": "wzxxcz_88aa6c4b0b48",
+            "name": "8X8X",
+            "type": 3,
+            "api": "./脚本/8X8X_保留.py"
+        },
+        {
+            "key": "wzxxcz_02dd3b4379b1",
+            "name": "jipinshaonv",
+            "type": 3,
+            "api": "./脚本/jipinshaonv_保留.py"
+        },
+        {
+            "key": "wzxxcz_0fb6c9f79ee6",
+            "name": "午夜剧场_分组版",
+            "type": 3,
+            "api": "./脚本/午夜剧场_分组版_保留.py"
+        },
+        {
+            "key": "wzxxcz_cce08dec4dfd",
+            "name": "午夜剧场_ok影视全量版",
+            "type": 3,
+            "api": "./脚本/午夜剧场_ok影视全量版_保留.py"
+        },
+        {
+            "key": "wzxxcz_0b7adabc609f",
+            "name": "nanrenbense",
+            "type": 3,
+            "api": "./脚本/nanrenbense_保留.py"
+        },
+        {
+            "key": "wzxxcz_d9008487a095",
+            "name": "tangxinciyuan",
+            "type": 3,
+            "api": "./脚本/tangxinciyuan_保留.py"
+        },
+        {
+            "key": "wzxxcz_c0d07c22ff93",
+            "name": "shoujizhushou",
+            "type": 3,
+            "api": "./脚本/shoujizhushou_保留.py"
+        },
+        {
+            "key": "wzxxcz_02e8cc2269f9",
+            "name": "女优色库",
+            "type": 3,
+            "api": "./脚本/女优色库_保留.py"
+        },
+        {
+            "key": "wzxxcz_18e96fa6d6c0",
+            "name": "baopianku",
+            "type": 3,
+            "api": "./脚本/baopianku_保留.py"
         }
     ],
     "lives": [
