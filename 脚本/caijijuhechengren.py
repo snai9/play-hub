@@ -304,7 +304,7 @@ if __name__ == "__main__":
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["155资源-155m3u8"]
+_TVBOX_LINE_ORDER = ["辣椒资源-lajiao"]
 
 def _tvbox_filter_lines(result, drop):
     if not isinstance(result, dict):
