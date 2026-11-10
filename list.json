@@ -23,28 +23,34 @@
             "api": "./脚本/AI搜剧.py"
         },
         {
-            "key": "wzxxcz_b3ca09b39432",
-            "name": "千千影视",
-            "type": 3,
-            "api": "./脚本/千千影视.py"
-        },
-        {
             "key": "wzxxcz_12bb37d126ba",
             "name": "飞快TV",
             "type": 3,
             "api": "./脚本/飞快TV.py"
         },
         {
+            "key": "wzxxcz_390997f34840",
+            "name": "99影视TV",
+            "type": 3,
+            "api": "./脚本/99影视TV.py"
+        },
+        {
+            "key": "wzxxcz_d409b3bd01ea",
+            "name": "dd",
+            "type": 3,
+            "api": "./脚本/dd.py"
+        },
+        {
+            "key": "wzxxcz_b3ca09b39432",
+            "name": "千千影视",
+            "type": 3,
+            "api": "./脚本/千千影视.py"
+        },
+        {
             "key": "wzxxcz_79f922ea6c5f",
             "name": "BadNews",
             "type": 3,
             "api": "./脚本/BadNews.py"
-        },
-        {
-            "key": "wzxxcz_2b79c02cc400",
-            "name": "咸鱼影视",
-            "type": 3,
-            "api": "./脚本/咸鱼影视.py"
         },
         {
             "key": "wzxxcz_88aa6c4b0b48",

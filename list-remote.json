@@ -23,28 +23,34 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/AI%E6%90%9C%E5%89%A7.py"
         },
         {
-            "key": "wzxxcz_b3ca09b39432",
-            "name": "千千影视",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E5%8D%83%E5%8D%83%E5%BD%B1%E8%A7%86.py"
-        },
-        {
             "key": "wzxxcz_12bb37d126ba",
             "name": "飞快TV",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E9%A3%9E%E5%BF%ABTV.py"
         },
         {
+            "key": "wzxxcz_390997f34840",
+            "name": "99影视TV",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/99%E5%BD%B1%E8%A7%86TV.py"
+        },
+        {
+            "key": "wzxxcz_d409b3bd01ea",
+            "name": "dd",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/dd.py"
+        },
+        {
+            "key": "wzxxcz_b3ca09b39432",
+            "name": "千千影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E5%8D%83%E5%8D%83%E5%BD%B1%E8%A7%86.py"
+        },
+        {
             "key": "wzxxcz_79f922ea6c5f",
             "name": "BadNews",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq1234567890/tvbox1/main/py/BadNews.py"
-        },
-        {
-            "key": "wzxxcz_2b79c02cc400",
-            "name": "咸鱼影视",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E5%92%B8%E9%B1%BC%E5%BD%B1%E8%A7%86.py"
         },
         {
             "key": "wzxxcz_88aa6c4b0b48",

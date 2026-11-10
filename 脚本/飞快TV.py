@@ -793,7 +793,7 @@ class Spider(Spider):
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["无广告1", "茅台资源", "无广告2", "无广告0"]
+_TVBOX_LINE_ORDER = ["无广告1", "无广告5", "魔都资源", "茅台资源", "无广告2", "无广告0", "无广告3", "无广告4", "最大在线"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []
