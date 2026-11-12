@@ -35,16 +35,10 @@
             "api": "./脚本/99影视TV.py"
         },
         {
-            "key": "wzxxcz_d409b3bd01ea",
-            "name": "dd",
+            "key": "wzxxcz_b5503e1a86e1",
+            "name": "ZIP0影视",
             "type": 3,
-            "api": "./脚本/dd.py"
-        },
-        {
-            "key": "wzxxcz_b3ca09b39432",
-            "name": "千千影视",
-            "type": 3,
-            "api": "./脚本/千千影视.py"
+            "api": "./脚本/ZIP0影视.py"
         },
         {
             "key": "wzxxcz_79f922ea6c5f",
