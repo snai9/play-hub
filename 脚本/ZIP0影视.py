@@ -698,7 +698,7 @@ class Spider(Spider):
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["线路2", "线路9", "线路5", "线路3", "线路1", "线路10", "线路4", "线路8"]
+_TVBOX_LINE_ORDER = ["线路9", "线路7", "线路1", "线路4"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []
