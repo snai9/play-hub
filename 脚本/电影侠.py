@@ -1032,10 +1032,11 @@ class Spider(Spider):
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["IK线路·高清", "FF线路·播放快/高清", "WJ线路·720P", "蓝光3·高清", "蓝光·高清", "超清2·秒播/4K", "DB线路·高清"]
+_TVBOX_LINE_ORDER = ["XL线路·播放快", "HN线路·中国大陆加速", "SB线路·播放快", "蓝光9·香港加速", "蓝光7·高清", "超清2·秒播/4K", "FF线路·播放快/高清", "蓝光·高清", "蓝光4·高清", "WJ线路·720P"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []
+_TVBOX_LINE_CAP = 4
 
 def _tvbox_filter_lines(result, drop):
     if not isinstance(result, dict):
@@ -1107,6 +1108,8 @@ def _tvbox_sort_item(item, order):
     # sink 命中的差线（4K 等）沉到最后但不删除。
     pairs = list(zip(parts_from, parts_url))
     pairs.sort(key=lambda p: _tvbox_rank(p[0]))
+    if _TVBOX_LINE_CAP > 0 and len(pairs) > _TVBOX_LINE_CAP:
+        pairs = pairs[: _TVBOX_LINE_CAP]
     item['vod_play_from'] = '$$$'.join(f for f, _ in pairs)
     item['vod_play_url'] = '$$$'.join(u for _, u in pairs)
 
