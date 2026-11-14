@@ -348,7 +348,7 @@ if __name__ == '__main__':
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["红牛云", "暴风云", "天堂云", "量子云", "索尼云", "闪电云"]
+_TVBOX_LINE_ORDER = ["红牛云", "天堂云", "暴风云", "量子云", "闪电云", "无尽云", "优酷云"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []

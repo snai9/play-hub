@@ -515,7 +515,7 @@ class Spider(Spider):
 
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
-_TVBOX_DROP_LINES = []
+_TVBOX_DROP_LINES = ["高清720P(登录专享)"]
 _TVBOX_LINE_ORDER = ["蓝光1080P(登录专享)", "高清720P(登录专享)", "标清480P"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []

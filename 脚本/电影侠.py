@@ -1032,7 +1032,7 @@ class Spider(Spider):
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["XL线路·播放快", "HN线路·中国大陆加速", "SB线路·播放快", "蓝光9·香港加速", "蓝光7·高清", "超清2·秒播/4K", "FF线路·播放快/高清", "蓝光·高清", "蓝光4·高清", "WJ线路·720P"]
+_TVBOX_LINE_ORDER = ["蓝光7·高清", "蓝光9·香港加速", "HN线路·中国大陆加速", "XL线路·播放快", "超清2·秒播/4K", "FF线路·播放快/高清", "蓝光1·香港加速", "蓝光·高清", "蓝光3·高清", "LZ线路·标清"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []
