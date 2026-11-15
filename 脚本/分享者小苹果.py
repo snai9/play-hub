@@ -488,8 +488,8 @@ class Spider(BaseSpider):
 
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
-_TVBOX_DROP_LINES = ["真蓝光4K"]
-_TVBOX_LINE_ORDER = ["超级无敌4k", "真蓝光4K", "高清4k", "4k专线2️⃣", "B超高清", "QQ超清", "QY超清"]
+_TVBOX_DROP_LINES = ["B超高清", "YK超清"]
+_TVBOX_LINE_ORDER = ["真蓝光4K", "B超高清", "超级无敌4k", "高清4k", "4k专线2️⃣", "YK超清"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []

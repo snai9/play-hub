@@ -811,8 +811,8 @@ class Spider(Spider):
 
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
-_TVBOX_DROP_LINES = ["xiguam3u8", "王者TV", "魔都M3U8"]
-_TVBOX_LINE_ORDER = ["极速M3U8", "rym3u8", "xiguam3u8", "魔都M3U8", "王者TV", "VIP线路", "1080资源", "暴风资源", "电影天堂", "非凡M3U8", "量子M3U8"]
+_TVBOX_DROP_LINES = ["VIP线路", "暴风资源", "王者TV", "魔都M3U8"]
+_TVBOX_LINE_ORDER = ["极速M3U8", "xiguam3u8", "魔都M3U8", "王者TV", "VIP线路", "暴风资源", "1080资源", "电影天堂", "非凡M3U8", "量子M3U8"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []

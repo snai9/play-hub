@@ -1,11 +1,11 @@
 {
-    "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/snai9/play-list/main/bg2s.png",
+    "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/snai9/play-hub/main/bg2s.png",
     "sites": [
         {
-            "key": "wzxxcz_f56e0b17ca7a",
-            "name": "西饭短剧",
+            "key": "wzxxcz_6cb2d6bd22ee",
+            "name": "七猫短剧",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jak0099/dr/master/py/%E7%9F%AD/%E8%A5%BF%E9%A5%AD%E7%9F%AD%E5%89%A7.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jak0099/dr/master/py/%E7%9F%AD/%E4%B8%83%E7%8C%AB%E7%9F%AD%E5%89%A7.py"
         }
     ],
     "lives": [

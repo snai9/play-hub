@@ -969,8 +969,8 @@ class Spider(_BaseSpider):
 
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
-_TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["豪华资源（有广）", "金鹰资源（有广）", "极速资源（有广）", "牛牛资源", "暴风资源", "天空资源（有广）"]
+_TVBOX_DROP_LINES = ["暴风资源", "金鹰资源（有广）"]
+_TVBOX_LINE_ORDER = ["豪华资源（有广）", "极速资源（有广）", "金鹰资源（有广）", "暴风资源", "牛牛资源", "臻享线路", "天空资源（有广）", "量子资源（屏蔽海外）", "菲菲资源（屏蔽海外）"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []

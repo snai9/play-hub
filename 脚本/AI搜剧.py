@@ -637,8 +637,8 @@ class Spider(Spider):
 
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
-_TVBOX_DROP_LINES = ["360资源", "西瓜 HD", "魔都 HD"]
-_TVBOX_LINE_ORDER = ["豪华 HD", "极速 HD", "如意 HD", "西瓜 HD", "魔都 HD", "360资源", "天堂 HD", "暴风 HD", "非凡 HD", "量子 HD", "无尽 HD"]
+_TVBOX_DROP_LINES = ["360资源", "暴风 HD", "魔都 HD"]
+_TVBOX_LINE_ORDER = ["豪华 HD", "极速 HD", "西瓜 HD", "如意 HD", "魔都 HD", "360资源", "暴风 HD", "天堂 HD", "非凡 HD", "量子 HD", "无尽 HD"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []
