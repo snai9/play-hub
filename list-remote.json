@@ -2,10 +2,10 @@
     "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/snai9/play-hub/main/bg2s.png",
     "sites": [
         {
-            "key": "wzxxcz_6cb2d6bd22ee",
-            "name": "七猫短剧",
+            "key": "wzxxcz_0d943d60c89d",
+            "name": "西瓜短剧",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jak0099/dr/master/py/%E7%9F%AD/%E4%B8%83%E7%8C%AB%E7%9F%AD%E5%89%A7.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/py/%E8%A5%BF%E7%93%9C%E7%9F%AD%E5%89%A7.py"
         }
     ],
     "lives": [
