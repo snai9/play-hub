@@ -605,7 +605,7 @@ class Spider(Spider):
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
 _TVBOX_DROP_LINES = []
-_TVBOX_LINE_ORDER = ["极速w", "极速z", "高清", "极速d"]
+_TVBOX_LINE_ORDER = ["极速w", "极速z", "高清", "极速d", "超清"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []

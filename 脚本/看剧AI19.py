@@ -390,8 +390,8 @@ class Spider(Spider):
 
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
-_TVBOX_DROP_LINES = ["1080P-官方R", "ikun资源", "iqiyi资源", "暴风资源", "魔都资源"]
-_TVBOX_LINE_ORDER = ["无水印资源", "西瓜资源", "魔都资源", "ikun资源", "1080P-官方R", "iqiyi资源", "暴风资源", "1080zyk", "索尼资源", "无尽资源", "电影天堂资源"]
+_TVBOX_DROP_LINES = ["ikun资源", "iqiyi资源", "暴风资源", "茅台资源", "魔都资源"]
+_TVBOX_LINE_ORDER = ["无水印资源", "西瓜资源", "魔都资源", "ikun资源", "暴风资源", "索尼资源", "1080zyk", "无尽资源", "电影天堂资源", "茅台资源", "iqiyi资源"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []

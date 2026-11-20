@@ -213,8 +213,8 @@ class Spider(_BaseSpider):
 
 
 # ---- TVBox 本地线路过滤（自动生成，勿改） ----
-_TVBOX_DROP_LINES = ["HD(BF)", "HD(IK)", "HD(LY)", "樱花(YH)"]
-_TVBOX_LINE_ORDER = ["金鹰2(JY)", "速博(SUBO)", "默认", "红牛(HN)", "光速(GS)", "HD(IK)", "樱花(YH)", "HD(LY)", "HD(BF)", "HD(SN)", "非凡(FF)"]
+_TVBOX_DROP_LINES = ["HD(BF)", "HD(IK)", "HD(LY)", "光速(GS)", "樱花(YH)", "速博(SUBO)", "金鹰2(JY)"]
+_TVBOX_LINE_ORDER = ["默认", "HD(IK)", "樱花(YH)", "HD(LY)", "HD(BF)", "HD(SN)", "红牛(HN)", "非凡(FF)", "速博(SUBO)", "金鹰2(JY)", "光速(GS)"]
 _TVBOX_DROP_SUB = []
 _TVBOX_ORDER_SUB = []
 _TVBOX_SINK_SUB = []
